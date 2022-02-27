@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IzaiasLima
-- 👀 I’m interested in Java, Angular,  Bootstrap, Flutter
-- 🌱 I’m currently learning Angular, Flutter
+- 👀 I’m interested in Java, Angular, Bootstrap e Flutter
+- 🌱 I’m currently learning Angular e Flutter
 - 📫 How to reach me coder@izaias.dev
 
 <!---
